@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/print-ramcharan/dsa-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -119,5 +120,26 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/print-ramcharan/dsa-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
