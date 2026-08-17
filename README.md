@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/print-ramcharan/dsa-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -124,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/print-ramcharan/dsa-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -133,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/print-ramcharan/dsa-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/print-ramcharan/dsa-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
