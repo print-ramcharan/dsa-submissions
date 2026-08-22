@@ -121,6 +121,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/print-ramcharan/dsa-submissions/tree/master/0061-rotate-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/print-ramcharan/dsa-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -159,4 +160,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/print-ramcharan/dsa-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/print-ramcharan/dsa-submissions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
