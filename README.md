@@ -174,6 +174,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/print-ramcharan/dsa-submissions/tree/master/0061-rotate-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/print-ramcharan/dsa-submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Prefix Sum
 |  |
 | ------- |
