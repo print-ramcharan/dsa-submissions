@@ -165,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/print-ramcharan/dsa-submissions/tree/master/0835-image-overlap) |
 | [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/print-ramcharan/dsa-submissions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/print-ramcharan/dsa-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -197,6 +198,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/print-ramcharan/dsa-submissions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/print-ramcharan/dsa-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
