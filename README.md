@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/print-ramcharan/dsa-submissions/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/print-ramcharan/dsa-submissions/tree/master/1872-stone-game-viii) |
@@ -204,4 +205,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/print-ramcharan/dsa-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/print-ramcharan/dsa-submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
