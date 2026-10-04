@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/print-ramcharan/dsa-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -100,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/print-ramcharan/dsa-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/print-ramcharan/dsa-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
@@ -232,10 +235,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/print-ramcharan/dsa-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/print-ramcharan/dsa-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/print-ramcharan/dsa-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
