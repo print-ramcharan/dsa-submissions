@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0836-rectangle-overlap](https://github.com/print-ramcharan/dsa-submissions/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/print-ramcharan/dsa-submissions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/print-ramcharan/dsa-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -150,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0940-distinct-subsequences-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/print-ramcharan/dsa-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/print-ramcharan/dsa-submissions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/print-ramcharan/dsa-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/print-ramcharan/dsa-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -184,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0835-image-overlap](https://github.com/print-ramcharan/dsa-submissions/tree/master/0835-image-overlap) |
 | [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/print-ramcharan/dsa-submissions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/print-ramcharan/dsa-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/print-ramcharan/dsa-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -257,4 +260,36 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/print-ramcharan/dsa-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
