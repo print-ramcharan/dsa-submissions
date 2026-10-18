@@ -1,50 +1,56 @@
 class Solution {
-    private static final long MOD = 1000000007L;
+    private static final long MOD = 1_000_000_007L;
+    private long[][] comb;
+
     public int numOfWays(int[] nums) {
         int n = nums.length;
 
-        long[][] comb = new long[n + 1][n + 1];
+        comb = new long[n + 1][n + 1];
 
-        for(int i = 0; i <= n; i ++){
+        for (int i = 0; i <= n; i++) {
             comb[i][0] = comb[i][i] = 1;
-            for(int j = 1; j < i; j ++){
-                comb[i][j] = (comb[i - 1][j - 1] + comb[i - 1][j]) % MOD;
+
+            for (int j = 1; j < i; j++) {
+                comb[i][j] =
+                    (comb[i - 1][j - 1] + comb[i - 1][j]) % MOD;
             }
         }
 
-        List<Integer> list = new ArrayList<>(n);
-        for(int num : nums){
-            list.add(num);
-        }
-        return (int) ((ways(list, comb) - 1 + MOD) % MOD);
+        return (int) ((ways(nums) - 1 + MOD) % MOD);
     }
 
-    private long ways(List<Integer> list, long[][] comb){
-        int n = list.size();
-        
-        if(n <= 2){
-            return 1;
+    private long ways(int[] nums) {
+        int n = nums.length;
+
+        if (n <= 2) return 1;
+
+        int root = nums[0];
+        int leftSize = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < root) leftSize++;
         }
 
-        int root = list.get(0);
+        int rightSize = n - 1 - leftSize;
 
-        List<Integer> left = new ArrayList<>();
-        List<Integer> right = new ArrayList<>();
+        int[] left = new int[leftSize];
+        int[] right = new int[rightSize];
 
-        for(int i = 1; i < n; i ++){
-            int val = list.get(i);
-            if(val < root){
-                left.add(val);
-            }else{
-                right.add(val);
+        int l = 0, r = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < root) {
+                left[l++] = nums[i];
+            } else {
+                right[r++] = nums[i];
             }
         }
 
-        long lWays = ways(left, comb);
-        long rWays = ways(right, comb);
+        long leftWays = ways(left);
+        long rightWays = ways(right);
 
-        long preserved = comb[left.size() + right.size()][left.size()];
+        long interleavings = comb[n - 1][leftSize];
 
-        return (((preserved * lWays) % MOD) * rWays) % MOD;
+        return (((interleavings * leftWays) % MOD) * rightWays) % MOD;
     }
 }
