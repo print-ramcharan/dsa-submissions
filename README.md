@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/print-ramcharan/dsa-submissions/tree/master/0093-restore-ip-addresses) |
 | [0678-valid-parenthesis-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/print-ramcharan/dsa-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -134,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/print-ramcharan/dsa-submissions/tree/master/0093-restore-ip-addresses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
