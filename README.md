@@ -201,6 +201,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3525-find-x-value-of-array-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/print-ramcharan/dsa-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/print-ramcharan/dsa-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/print-ramcharan/dsa-submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
