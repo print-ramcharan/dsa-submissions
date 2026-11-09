@@ -192,6 +192,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0835-image-overlap](https://github.com/print-ramcharan/dsa-submissions/tree/master/0835-image-overlap) |
 | [1563-stone-game-v](https://github.com/print-ramcharan/dsa-submissions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/print-ramcharan/dsa-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1872-stone-game-viii](https://github.com/print-ramcharan/dsa-submissions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/print-ramcharan/dsa-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/print-ramcharan/dsa-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -248,6 +249,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/print-ramcharan/dsa-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -267,6 +269,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/print-ramcharan/dsa-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/print-ramcharan/dsa-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/print-ramcharan/dsa-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
@@ -301,4 +304,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/print-ramcharan/dsa-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
