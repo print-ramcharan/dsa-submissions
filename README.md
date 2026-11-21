@@ -102,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/print-ramcharan/dsa-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/print-ramcharan/dsa-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/print-ramcharan/dsa-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -123,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/print-ramcharan/dsa-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/print-ramcharan/dsa-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/print-ramcharan/dsa-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/print-ramcharan/dsa-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/print-ramcharan/dsa-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -207,6 +209,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/print-ramcharan/dsa-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/print-ramcharan/dsa-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/print-ramcharan/dsa-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/print-ramcharan/dsa-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/print-ramcharan/dsa-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/print-ramcharan/dsa-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/print-ramcharan/dsa-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -292,6 +295,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/print-ramcharan/dsa-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/print-ramcharan/dsa-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Union-Find
 |  |
 | ------- |
@@ -332,4 +336,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/print-ramcharan/dsa-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/print-ramcharan/dsa-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
