@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     private static final long BASE1 = 1_000_003L;
     private static final long MOD1 = 1_000_000_007L;
