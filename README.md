@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1872-stone-game-viii](https://github.com/print-ramcharan/dsa-submissions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/print-ramcharan/dsa-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/print-ramcharan/dsa-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/print-ramcharan/dsa-submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/print-ramcharan/dsa-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/print-ramcharan/dsa-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/print-ramcharan/dsa-submissions/tree/master/3524-find-x-value-of-array-i) |
@@ -270,6 +271,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/print-ramcharan/dsa-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3360-stone-removal-game](https://github.com/print-ramcharan/dsa-submissions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/print-ramcharan/dsa-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
